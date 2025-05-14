@@ -19,7 +19,7 @@ local scripts = {
     [89430294172992] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/126447951598274.lua",
     [76291578724272] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/76291578724272.lua",
     -- Grup baru (contoh)
-    [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/112678615086652.lua", -- ride race
+    [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/112678615086652.lua", -- ride race
     [987654321] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/custom_group.lua",
     [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/custom_group.lua"
 }
