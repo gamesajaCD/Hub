@@ -3,25 +3,25 @@ if not game:IsLoaded() then game.Loaded:Wait() end
 print("Current PlaceId: " .. tostring(game.PlaceId))
 
 local scripts = {
-    [120570155878200] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/120570155878200.lua", -- Broom Training
-    [13127800756] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/13127800756.lua",
-    [11827760850] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/11827760850.lua",
-    [12978425304] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/12978425304.lua",
-    [15139160794] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/15139160794.lua",
-    [18629053284] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/18629053284.lua", -- Survival Odyssey
-    [18629058177] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/18629058177.lua", -- Void
-    [92039548740735] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/92039548740735.lua", -- Underworld
-    [93787311916283] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/93787311916283.lua", -- Horse Race
-    [125415045928192] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/125415045928192.lua", -- Roller Training
+    [120570155878200] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/120570155878200.lua", -- Broom Training
+    [13127800756] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/13127800756.lua",
+    [11827760850] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/11827760850.lua",
+    [12978425304] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/12978425304.lua",
+    [15139160794] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/15139160794.lua",
+    [18629053284] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/18629053284.lua", -- Survival Odyssey
+    [18629058177] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/18629058177.lua", -- Void
+    [92039548740735] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/92039548740735.lua", -- Underworld
+    [93787311916283] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/93787311916283.lua", -- Horse Race
+    [125415045928192] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/125415045928192.lua", -- Roller Training
     -- Swim League (World1, World2, World3, World4)
-    [126447951598274] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/126447951598274.lua",
-    [138732687875539] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/126447951598274.lua",
-    [89430294172992] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/126447951598274.lua",
-    [76291578724272] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/76291578724272.lua",
+    [126447951598274] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/126447951598274.lua",
+    [138732687875539] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/126447951598274.lua",
+    [89430294172992] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/126447951598274.lua",
+    [76291578724272] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/76291578724272.lua",
     -- Grup baru (contoh)
-    [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/112678615086652.lua", -- ride race
-    [987654321] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/custom_group.lua",
-    [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/custom_group.lua"
+    [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/112678615086652.lua", -- ride race
+    [987654321] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/custom_group.lua",
+    [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/Hub/main/custom_group.lua"
 }
 
 local url = scripts[game.PlaceId]
