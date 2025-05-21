@@ -20,7 +20,7 @@ local scripts = {
     [76291578724272] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/76291578724272.lua",
     -- Grup baru (contoh)
     [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/112678615086652.lua", -- ride race
-    [101645554076038] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/101645554076038.lua", -- paper plane
+    [101645554076038] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/101645554076038.lua", -- paper plane
     [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/custom_group.lua"
 }
 
