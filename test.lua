@@ -21,8 +21,8 @@ local scripts = {
     -- Grup baru (contoh)
     [112678615086652] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/112678615086652.lua", -- ride race
     [101645554076038] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/101645554076038.lua", -- paper plane
-	[76260928389356] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/101645554076038.lua", -- Guitar Simulator
-	[81257648942232] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/101645554076038.lua", -- Slash Mob Simulator
+	[76260928389356] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/76260928389356.lua", -- Guitar Simulator
+	[81257648942232] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/81257648942232.lua", -- Slash Mob Simulator
     [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/custom_group.lua"
 }
 
