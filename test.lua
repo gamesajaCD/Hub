@@ -25,6 +25,7 @@ local scripts = {
 	[81257648942232] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/81257648942232.lua", -- Slash Mob Simulator
 	[136409236554789] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/136409236554789.lua", -- Your Goblin Mine
 	[111528201897565] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/111528201897565.lua", -- Anime Plasma
+	[125661369726244] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/125661369726244.lua", -- Anime Apex
     [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/custom_group.lua"
 }
 
