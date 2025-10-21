@@ -27,6 +27,7 @@ local scripts = {
 	[111528201897565] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/111528201897565.lua", -- Anime Plasma
 	[125661369726244] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/125661369726244.lua", -- Anime Apex
 	[16713816479] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/16713816479.lua", -- Pet Quest
+	[99980877848343] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/main/99980877848343.lua", -- Energy Incremental
     [555555555] = "https://raw.githubusercontent.com/gamesajaCD/PrivateScript/refs/heads/main/custom_group.lua"
 }
 
